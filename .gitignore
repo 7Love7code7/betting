@@ -1,0 +1,9 @@
+.env
+node_modules
+package-lock.json
+build/
+Flattened/
+artifacts/
+cache/
+coverage/
+coverage.json

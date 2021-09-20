@@ -1,0 +1,1 @@
+truffle run verify NFTAuction@0x02E0D53AD28A5A55ADdFA62d7B198aEE721E90CF --network rinkeby

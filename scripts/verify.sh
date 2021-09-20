@@ -1,0 +1,1 @@
+truffle run verify MarketTradingAccessControls@0x613d4f88C6fF2a98Add522d777396dC20E35e40f --network rinkeby
